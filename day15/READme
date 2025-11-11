@@ -1,0 +1,5 @@
+The above code is about analysing the students performance by marks
+using grades A+,A,B,B+,C,D,if less then 50 is fail
+highest and lowest marks also declered
+students how many failed and passed is also showed above
+concepts focused on 1D arrays,loops,conditionals,calculations,comparisions
