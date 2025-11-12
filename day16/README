@@ -1,0 +1,5 @@
+THE ABOVE IS ABOUT calculating cost of items purchased in cafe.
+by giving input no of customers,name of the customer,no of items,type of item.
+we can also see which items are most ordered and least ordered items
+data types used are int and char 
+also we can take multiple orders at a time
